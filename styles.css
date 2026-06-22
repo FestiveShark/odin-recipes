@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+
+a {
+    color: teal;
+}
+
+h1 {
+    width: 480px;
+    margin: 0 auto;
+}
+
+#toc {
+    width: 240px;
+}
+
+.card {
+    display: inline;
+    width: 50px;
+    border: solid 1px orange;
+    border-radius: 24px;
+    padding: 20px;
+    padding-bottom: 40px;
+    background-color: rgb(255, 226, 172);
+}
