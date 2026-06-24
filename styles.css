@@ -40,6 +40,7 @@ a {
 
 .card {
     display: inline-block;
+    vertical-align: top;
     width: 30%;
     border: solid 1px orange;
     border-radius: 24px;
